@@ -1,0 +1,44 @@
+.wrapper{
+    background: url(../img/rainforest-Malaysia.webp) no-repeat center top;
+    width: 100%;
+    margin-top: -10px;
+    padding-top: 20px;
+    background-attachment: relative;
+    background-position: center center;
+    min-height: 500px;
+    background-size: 100%;
+    background-size: cover;
+    text-align: center;
+}
+.wrapper h1{
+    margin-top: 100px;
+    font-size: 52px;
+    font-weight: 300;
+    letter-spacing: 3px;
+    color: white;
+}
+.skills, .team, .about{
+    width: 100%;
+    margin-top: -10px;
+    padding-top: 20px;
+    min-height: 500px;
+    text-align: center;
+}
+.skills h2{
+    margin-top: 10px;
+    font-size: 52px;
+    font-weight: 300;
+    letter-spacing: 3px;
+}
+.team h3{
+    margin-top: 10px;
+    font-size: 52px;
+    font-weight: 300;
+    letter-spacing: 3px;
+}
+.about h4{
+    margin-top: 10px;
+    font-size: 52px;
+    font-weight: 300;
+    letter-spacing: 3px;
+}
